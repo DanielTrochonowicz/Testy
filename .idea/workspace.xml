@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f80d764a-8983-4b4f-918a-b67780e3f45b" name="Default Changelist" comment="" />
+    <list default="true" id="f80d764a-8983-4b4f-918a-b67780e3f45b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testy/Testowanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testy/Testowanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testy/TestowanieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testy/TestowanieTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,18 +22,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TZ1Mqt3MFcbtyn8K6o0iwT87dA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -49,6 +68,96 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.TestowanieTest">
+    <configuration name="TestowanieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testy" />
+      <option name="MAIN_CLASS_NAME" value="testy.TestowanieTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestowanieTest.sprawdzZakres" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testy" />
+      <option name="MAIN_CLASS_NAME" value="testy.TestowanieTest" />
+      <option name="METHOD_NAME" value="sprawdzZakres" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestowanieTest.sprawdzZakresFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testy" />
+      <option name="MAIN_CLASS_NAME" value="testy.TestowanieTest" />
+      <option name="METHOD_NAME" value="sprawdzZakresFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestowanieTest.sprawdzZakresFalse2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testy" />
+      <option name="MAIN_CLASS_NAME" value="testy.TestowanieTest" />
+      <option name="METHOD_NAME" value="sprawdzZakresFalse2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestowanieTest.testDodawanie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testy" />
+      <option name="MAIN_CLASS_NAME" value="testy.TestowanieTest" />
+      <option name="METHOD_NAME" value="testDodawanie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestowanieTest" />
+        <item itemvalue="JUnit.TestowanieTest.sprawdzZakresFalse2" />
+        <item itemvalue="JUnit.TestowanieTest.sprawdzZakresFalse" />
+        <item itemvalue="JUnit.TestowanieTest.sprawdzZakres" />
+        <item itemvalue="JUnit.TestowanieTest.testDodawanie" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,11 +168,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573652758126</updated>
-      <workItem from="1573652762066" duration="915000" />
+      <workItem from="1573652762066" duration="3776000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
